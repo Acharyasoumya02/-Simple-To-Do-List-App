@@ -1,5 +1,3 @@
-# -Simple-To-Do-List-App
-
 # 📝 Simple To-Do List App
 
 **Project ID:** #CC9877  
